@@ -4,14 +4,23 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "Home",
+      "About me"
+    ]
   },
   {
     "objectID": "talks.html",
     "href": "talks.html",
     "title": "Talks",
     "section": "",
-    "text": "Presentations\n\n03/2023 - Tagung des Netzwerks Kriminologie in NRW, Köln “Then they simply go somewhere else…“: An Exploratory Study of Crime Displacement in a German Context."
+    "text": "Presentations\n\n03/2023 - Tagung des Netzwerks Kriminologie in NRW, Köln “Then they simply go somewhere else…“: An Exploratory Study of Crime Displacement in a German Context.",
+    "crumbs": [
+      "Home",
+      "Works",
+      "Talks"
+    ]
   },
   {
     "objectID": "index.html",

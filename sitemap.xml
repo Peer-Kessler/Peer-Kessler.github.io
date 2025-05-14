@@ -2,14 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://Peer-Kessler.github.io/about.html</loc>
-    <lastmod>2025-05-14T10:30:37.159Z</lastmod>
+    <lastmod>2025-05-14T10:39:06.248Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Peer-Kessler.github.io/teaching.html</loc>
+    <lastmod>2025-05-14T10:39:06.249Z</lastmod>
   </url>
   <url>
     <loc>https://Peer-Kessler.github.io/talks.html</loc>
-    <lastmod>2025-05-14T10:30:37.160Z</lastmod>
+    <lastmod>2025-05-14T10:39:06.249Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Peer-Kessler.github.io/publications.html</loc>
+    <lastmod>2025-05-14T10:39:06.248Z</lastmod>
   </url>
   <url>
     <loc>https://Peer-Kessler.github.io/index.html</loc>
-    <lastmod>2025-05-14T10:30:37.159Z</lastmod>
+    <lastmod>2025-05-14T10:39:06.248Z</lastmod>
   </url>
 </urlset>
