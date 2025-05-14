@@ -9,6 +9,20 @@ website:
         text: Home
       - about.qmd
       - talks.qmd
+  sidebar:
+    style: "floating"
+    search: false
+    contents:
+      - text: "About me"
+        href: about.qmd
+      - section: "Works"
+        contents:
+          - text: "Publications"
+            href: publications.qmd
+          - text: "Talks"
+            href: talks.qmd
+          - text: "Teaching"
+            href: teaching.qmd
 
 format:
   html:
