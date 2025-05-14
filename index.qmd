@@ -1,11 +1,7 @@
 ---
-title: "Peer-Kessler.github.io"
+title: "Peer Keßler, M.A."
 ---
 
-This is a Quarto website.
+Researcher at the Department Health and Prevention at the  University of Greifswald. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+This website is a work in progress. 
